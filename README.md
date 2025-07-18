@@ -2,6 +2,10 @@
 
 **Kinetx** is a modern, responsive landing page designed to showcase an innovative AI-powered smart sportswear solution. It highlights the pervasive problem of sports injuries caused by poor movement and offers Kinetx as the cutting-edge solution for real-time feedback, posture correction, and performance optimization.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3bdcd3e9-73ac-4ed1-aaa5-cf6d88f7cfa7" alt="Kinetx UI Preview" width="600" />
+</p>
+
 ## Features
 
 - **AI-Powered Sportswear Concept:** Presents the core idea of smart apparel for injury prevention and performance enhancement.
